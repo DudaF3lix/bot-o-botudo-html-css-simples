@@ -12,9 +12,9 @@
 
     cursor: pointer;
 
-    opacity: 0.4;
+    opacity: 0.8;
 
-    transition: opacity 0.3s ease;
+    transition: opacity 0.3 ease;
 
     border-radius: 5%;
 
